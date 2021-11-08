@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Casandra Rojas",
+    "gender": "F",
+    "username": "casandR8@",
+    "email": "casandraR70@gmail.com",
+    "password": "pass@123"
+  },
+  {
+    "name": "Valero Vicente",
+    "gender": "M",
+    "username": "valero74*",
+    "email": "val74@gmail.com",
+    "password": "pass@456"
+  },
+  {
+    "name": "Edelmira Gil",
+    "gender": "F",
+    "username": "EdeGil12@",
+    "email": "gilda31c@gmail.com",
+    "password": "pass@789"
+  },
+  {
+    "name": "Ricardo Bustamante",
+    "gender": "M",
+    "username": "richardB4@",
+    "email": "richarMil@gmail.com",
+    "password": "pass@987"
+  },
+  {
+    "name": "Odalys Plana",
+    "gender": "F",
+    "username": "OdalysP25@",
+    "email": "odalys@gmail.com",
+    "password": "pass@654"
+  },
+  {
+    "name": "Rosalina Aguilera",
+    "gender": "F",
+    "username": "rosaAg45@",
+    "email": "aguilera78@gmail.com",
+    "password": "pass@321"
+  },
+  {
+    "name": "Miriam Aliaga",
+    "gender": "F",
+    "username": "miriAl64@",
+    "email": "miriam97@gmail.com",
+    "password": "pass@147"
+  },
+  {
+    "name": "Luis Pedrero",
+    "gender": "M",
+    "username": "LuisWolf47@",
+    "email": "luis97@gmail.com",
+    "password": "pass@749"
+  },
+  {
+    "name": "Beatriz Barrios",
+    "gender": "F",
+    "username": "BeaBella84@",
+    "email": "bea89@gmail.com",
+    "password": "pass@472"
+  },
+  {
+    "name": "Brandon Campillo",
+    "gender": "M",
+    "username": "brandon47#",
+    "email": "brandon87c@gmail.com",
+    "password": "pass@140"
+  },
+  {
+    "name": "Loida Abellán",
+    "gender": "F",
+    "username": "LoidaAb64$",
+    "email": "abellan@gmail.com",
+    "password": "pass@984"
+  },
+  {
+    "name": "Carlos Valencia",
+    "gender": "M",
+    "username": "CarlosV3@",
+    "email": "carlos78xc@gmail.com",
+    "password": "pass@947"
+  },
+  {
+    "name": "Ester Roman",
+    "gender": "F",
+    "username": "EstherR41@",
+    "email": "roman40@gmail.com",
+    "password": "pass@487"
+  },
+  {
+    "name": "Emiliano Perez",
+    "gender": "M",
+    "username": "EmilianoP47@",
+    "email": "emiliano9f@gmail.com",
+    "password": "pass@495"
+  },
+  {
+    "name": "Iván Escribano",
+    "gender": "M",
+    "username": "ivanovich9#",
+    "email": "ivan74@gmail.com",
+    "password": "pass@450"
+  },
+  {
+    "name": "Ángel Vargas",
+    "gender": "M",
+    "username": "angelVa9$",
+    "email": "angel9@gmail.com",
+    "password": "pass@764"
+  },
+  {
+    "name": "Palmira Lorenza",
+    "gender": "F",
+    "username": "palmitaL48$",
+    "email": "lorenza47@gmail.com",
+    "password": "pass@248"
+  },
+  {
+    "name": "Fernando Cardenas",
+    "gender": "F",
+    "username": "ferna47Car@",
+    "email": "cardenas@gmail.com",
+    "password": "pass@654"
+  },
+  {
+    "name": "Calisto Dominguez",
+    "gender": "M",
+    "username": "calixtoD94@",
+    "email": "calisto5@gmail.com",
+    "password": "pass@437"
+  }
+]
